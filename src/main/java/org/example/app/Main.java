@@ -18,6 +18,7 @@ public class Main {
 
             switch (MenuConsole.opcao) {
 
+
                 case 1:
 
                     String nomeCliente = MenuConsole.lerNomeCliente();
